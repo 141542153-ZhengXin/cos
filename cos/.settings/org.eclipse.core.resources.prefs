@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/cos.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/views/adminIndex.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/studentIndex.jsp=UTF-8
+encoding//src/main/webapp/login.jsp=UTF-8

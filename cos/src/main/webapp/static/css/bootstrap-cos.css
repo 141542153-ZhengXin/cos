@@ -1,0 +1,151 @@
+body {
+	font-family: 'Microsoft YaHei', sans-serif;
+}
+
+div {
+	word-break: break-all;
+	white-space: normal;
+}
+
+.wh45 {
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+}
+
+.wh80 {
+	width: 300px;
+	height: 300px;
+}
+
+.mar_t15 {
+	margin-top: 15px;
+}
+
+.pad0 {
+	padding: 0;
+}
+
+.page-header {
+	margin-top: 0;
+}
+
+.page-header h1 {
+	margin: 0;
+	font-size: 16px;
+}
+
+.work-form textarea {
+	margin-top: 10px;
+}
+
+input {
+	margin-bottom: 15px;
+}
+
+textarea {
+	margin-bottom: 15px;
+}
+
+.carousel-control.right, .carousel-control.left {
+	background-image: none;
+	top: 8%;
+}
+
+#CarouselDIV {
+	position: absolute;
+	top: 0%;
+	z-index: 100;
+}
+
+nav {
+	z-index: 200;
+}
+
+.container-fluid a {
+	color: white;
+	font-family: '¿¬Ìå';
+}
+
+#div1 {
+	position: absolute;
+	top: 140%;
+	left: 10%;
+	z-index: 200;
+}
+
+#div2 {
+	position: absolute;
+	top: 10%;
+	right: 10%;
+	z-index: 200;
+	filter: alpha(Opacity = 90);
+	-moz-opacity: 0.6;
+	opacity: 0.6;
+}
+
+#div3 {
+	position: absolute;
+	top: 140%;
+	right: 10%;
+	z-index: 200;
+}
+
+#div4 {
+	position: absolute;
+	top: 140%;
+	z-index: 200;
+}
+
+#div5 {
+	position: absolute;
+	top: 140%;
+	left: 0%;
+	z-index: 200;
+}
+
+#div6 {
+	position: absolute;
+	top: 150%;
+	right: 1%;
+	z-index: 200;
+}
+
+#div7 {
+	position: absolute;
+	top: 150%;
+	left: 15%;
+	z-index: 200;
+}
+
+#div8 {
+	position: absolute;
+	top: 140%;
+	left: 17%;
+	z-index: 200;
+}
+
+#div9 {
+	position: absolute;
+	top: 190%;
+	z-index: 200;
+}
+
+/* .media-style {
+	
+	box-shadow: 0px 2px 4px rgba(34, 25, 25, 0.2);
+} */
+.media {
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+.panel, .thumbnail {
+	box-shadow: 0px 5px 8px rgba(34, 25, 25, 0.2);
+}
+
+.media-style {
+	background-color: white;
+	border: none;
+	box-shadow:
+}
